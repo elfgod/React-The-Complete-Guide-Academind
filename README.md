@@ -34,8 +34,8 @@ https://jsbin.com
 
 https://github.com/academind/react-complete-guide-code/tree/03-react-basics-working-with-components/code
 
-// Install NodeJS LTS
-https://nodejs.org/en/download/
+- Install NodeJS LTS
+  https://nodejs.org/en/download/
 
-run npm install in the extracted folder
-Run npm start to start the development server
+- run `npm install` in the extracted folder
+- run `npm start` to start the development server
