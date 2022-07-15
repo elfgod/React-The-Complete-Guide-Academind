@@ -39,3 +39,7 @@ https://github.com/academind/react-complete-guide-code/tree/03-react-basics-work
 
 - run `npm install` in the extracted folder
 - run `npm start` to start the development server
+
+## Section 4: React State & Working with Events
+
+## Section 5: Rendering Lists & Conditional Content
